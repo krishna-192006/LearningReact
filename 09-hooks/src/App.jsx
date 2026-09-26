@@ -18,7 +18,7 @@ const App = () => {
     }
 
     function DecreaseBy5() {
-      setNum(Num-5)
+      setNum(Num+5)
     }
 
   
