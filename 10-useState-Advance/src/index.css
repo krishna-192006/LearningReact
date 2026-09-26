@@ -1,0 +1,10 @@
+*{
+  background-color: rgb(214, 181, 181);
+}
+
+.button {
+  background-color: green;
+  border: 2px solid;
+  margin: 10px;
+  padding: 10px;  
+}
